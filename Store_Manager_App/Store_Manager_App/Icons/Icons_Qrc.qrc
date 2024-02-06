@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="Sidebar_Icons">
+    <file>add.png</file>
+    <file>Homee.png</file>
+    <file>distribution.png</file>
+    <file>Invoicew.png</file>
+    <file>Printerw.png</file>
+    <file>Productsw.png</file>
+    <file>removeew.png</file>
+    <file>Sales1.png</file>
+    <file>Sales2.png</file>
+    <file>Salesw.png</file>
+    <file>Savew.png</file>
+    <file>Supplierw.png</file>
+    <file>Cartw.png</file>
+    <file>Customerw.png</file>
+  </qresource>
+</RCC>
